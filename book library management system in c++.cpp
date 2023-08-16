@@ -1,7 +1,6 @@
-//Library Management System applying OOP concepts
-//OOP Concepts applied: Classes and Objects,Access Specifiers,Encapsulation
+//It is a Library Management System applying OOP concepts.An OOP Concepts applied: Classes and Objects,Access Specifiers,Encapsulation
 
-//Libraries
+// Some Libraries
 #include<iostream> 
 #include<conio.h>
 #include<string>
